@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T10:31:57.667Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="64zLz5dksYhLkGKoxEu0" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T10:33:02.286Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="hz0wPMISwLUdLp0zcWmP" version="22.0.8" type="github">
   <diagram id="logMiOCvHXAl9x27JXvN" name="Page-1">
     <mxGraphModel dx="1562" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -31,7 +31,7 @@
         <mxCell id="R9i-BLZebL0esbmVvitq-13" value="Refinitiv" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.67;dx=20;notch=0;rotation=90;textDirection=ltr;" parent="1" vertex="1">
           <mxGeometry x="520" y="108" width="97" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="R9i-BLZebL0esbmVvitq-23" value="Tibco RendezVous" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="R9i-BLZebL0esbmVvitq-23" value="RAIMS" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="250" y="310" width="490" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R9i-BLZebL0esbmVvitq-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.304;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="R9i-BLZebL0esbmVvitq-7" target="R9i-BLZebL0esbmVvitq-23" edge="1">
@@ -160,6 +160,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="569" y="570" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Pa7R7Qg_RjrtZxtI7UE3-1" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.html5" vertex="1" parent="1">
+          <mxGeometry x="347.4" y="665.5" width="52.400000000000006" height="74" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
